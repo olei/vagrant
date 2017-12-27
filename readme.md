@@ -31,3 +31,8 @@ vagrant@precise64:/vagrantsudo apt-get install nodejs
 
 5. sudo apt-get install nodejs  
  
+### 输入下面命令安装node.js
+
+`sudo apt install nodejs-legacy`
+
+安装完输入 node -v 可查看版本号
