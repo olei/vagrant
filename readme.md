@@ -12,6 +12,7 @@
 ```
 $ vagrant init
 $ vagrant box add hashicorp/precise64
+// vagrant init hashicorp/precise64
 $ vagrant up
 $ vagrant ssh
 vagrant@precise64:~$ cd /vagrant
